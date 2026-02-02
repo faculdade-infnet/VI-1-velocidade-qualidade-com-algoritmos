@@ -1,3 +1,6 @@
+## Documentation in Notion 
+https://www.notion.so/1T-SegQui-Velocidade-e-Qualidade-com-Estruturas-de-Dados-e-Algoritmos-2f6ab4aadb2580388e55d3d16efa4fa8
+
 ## Commmit Patterns
 | Symbol  | Type       | Use              |
 | ------- | ---------- | --------------------------------------- |
