@@ -1,6 +1,6 @@
 # Velocidade e Qualidade com Estruturas de Dados e Algoritmos
 
-# TP3 - Questões (10)
+# TP3 - Questões (12)
 
 # Modo de Uso:
 - No projeto tem um arquivo pdf com todas as questões resolvidas com descrição das soluções implementadas
