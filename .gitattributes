@@ -1,0 +1,2 @@
+# forçar Linguist a reconhecer extensão customizada como Python
+*.ipynb linguist-language=Python
